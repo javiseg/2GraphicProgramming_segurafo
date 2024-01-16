@@ -1,0 +1,10 @@
+﻿D:\Utilidades\VisualStudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  FPCamera.cpp
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\EDK_workspace_equalizer\include\math\vector_3.h(94,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\EDK_workspace_equalizer\include\math\vector_3.h(132,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\EDK_workspace_equalizer\include\math\vector_3.h(168,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\EDK_workspace_equalizer\include\math\vector_2.h(173,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\EDK_workspace_equalizer\include\math\vector_2.h(213,14): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\EDK_workspace_equalizer\include\math\vector_4.h(92,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\EDK_workspace_equalizer\include\math\vector_4.h(129,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  EDK_workspace.vcxproj -> D:\ESAT\Segundo\SegundoCuatri\Gráfica\EDK_workspace_equalizer\project\VS2017\EDK_workspace\..\..\..\bin\EDK_workspace.exe

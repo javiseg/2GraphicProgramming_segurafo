@@ -1,0 +1,4 @@
+D:\Usuarios\Lord Patata\Descargas\math_library v0.9\math_library\bin\MathLibrary.pdb
+D:\Usuarios\Lord Patata\Descargas\math_library v0.9\math_library\temp\x64\Debug\MathLibrary.pdb
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\bin\MathLibrary.pdb
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\temp\x64\Debug\MathLibrary.pdb

@@ -1,0 +1,15 @@
+﻿D:\Utilidades\VisualStudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: El directorio intermedio (D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\project\VS2017\MathLibrary\..\..\..\temp\x64\Debug\) contiene archivos compartidos de otro proyecto (UnitTest.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  vector_3.cc
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\math_library\include\vector_3.h(94,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\math_library\include\vector_3.h(132,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\math_library\include\vector_3.h(168,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  vector_4.cc
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\math_library\include\vector_3.h(94,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\math_library\include\vector_3.h(132,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\math_library\include\vector_3.h(168,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\math_library\include\vector_2.h(173,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\math_library\include\vector_2.h(213,14): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\math_library\include\vector_4.h(92,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\math_library\include\vector_4.h(129,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  MathLibrary.vcxproj -> D:\ESAT\Segundo\SegundoCuatri\Gráfica\math_library v0.9\math_library\project\VS2017\MathLibrary\..\..\..\bin\MathLibrary.lib

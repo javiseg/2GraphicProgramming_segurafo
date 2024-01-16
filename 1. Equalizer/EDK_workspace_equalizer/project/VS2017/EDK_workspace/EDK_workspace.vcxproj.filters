@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{8733b5e4-22a5-46de-ab3f-5ca0c57bde0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\EDK3">
+      <UniqueIdentifier>{f417cec2-3d7a-42bc-9ca5-31bcb92d44ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\EDK3\dev">
+      <UniqueIdentifier>{e4dc179c-ddff-4e8e-a4c1-b2ab1b2728a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\ESAT">
+      <UniqueIdentifier>{85ec947a-471c-448e-9b46-69d7add93aec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Example">
+      <UniqueIdentifier>{8c9750f4-0952-4337-a82c-379aca8b4f87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\math">
+      <UniqueIdentifier>{f521847f-6655-4134-add7-9b1ee6d9052f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="math_c">
+      <UniqueIdentifier>{f9f998e0-21fa-4816-afca-90c6f68317db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="camera">
+      <UniqueIdentifier>{81e98032-687d-4f47-92fc-55e4c907d0d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JSF">
+      <UniqueIdentifier>{527310d9-ae4b-437c-acc4-3993233d6f39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\JSF">
+      <UniqueIdentifier>{26e13f94-6356-4950-853f-38ea96b140ad}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\include\EDK3\dev\framebuffer.h">
+      <Filter>Include\EDK3\dev</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\dev\glew.h">
+      <Filter>Include\EDK3\dev</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\dev\gpumanager.h">
+      <Filter>Include\EDK3\dev</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\dev\opengl.h">
+      <Filter>Include\EDK3\dev</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\dev\program.h">
+      <Filter>Include\EDK3\dev</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\dev\shader.h">
+      <Filter>Include\EDK3\dev</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\dev\buffer.h">
+      <Filter>Include\EDK3\dev</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\camera.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\constants.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\drawable.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\geometry.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\matdiffuse.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\matdiffusetexture.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\material.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\materialsettings.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\matpostprocess.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\node.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\ref_ptr.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\referenced.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\rendertarget.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\scoped_array.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\scoped_ptr.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EDK3\texture.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\ESAT\sprite.h">
+      <Filter>Include\ESAT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\ESAT\time.h">
+      <Filter>Include\ESAT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\ESAT\window.h">
+      <Filter>Include\ESAT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\ESAT\draw.h">
+      <Filter>Include\ESAT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\ESAT\input.h">
+      <Filter>Include\ESAT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\ESAT\math.h">
+      <Filter>Include\ESAT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\math\math_utils.h">
+      <Filter>Include\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\math\matrix_2.h">
+      <Filter>Include\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\math\matrix_3.h">
+      <Filter>Include\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\math\matrix_4.h">
+      <Filter>Include\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\math\vector_2.h">
+      <Filter>Include\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\math\vector_3.h">
+      <Filter>Include\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\math\vector_4.h">
+      <Filter>Include\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\FPCamera.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\PlaneBackground.h" />
+    <ClInclude Include="..\..\..\include\EDK3\matcustom.h">
+      <Filter>Include\EDK3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\matcustom_jsf.h">
+      <Filter>Include\JSF</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\JCircle.h">
+      <Filter>Include\JSF</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="..\..\..\include\GameState.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\EffectCreator.h">
+      <Filter>Include\JSF</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\include\JCylinder.h">
+      <Filter>Include\JSF</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\src\visual_equalizer_main.cc">
+      <Filter>Example</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\include\math\src\matrix_3.cc">
+      <Filter>math_c</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\include\math\src\vector_2.cc">
+      <Filter>math_c</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\include\math\src\vector_3.cc">
+      <Filter>math_c</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\include\math\src\vector_4.cc">
+      <Filter>math_c</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\FPCamera.cpp">
+      <Filter>camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\PlaneBackground.cpp" />
+    <ClCompile Include="..\..\..\src\matcustom_jsf.cc">
+      <Filter>JSF</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\JCircle.cpp">
+      <Filter>JSF</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\GameState.cpp">
+      <Filter>JSF</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\EffectCreator.cpp">
+      <Filter>JSF</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\JCylinder.cpp">
+      <Filter>JSF</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="EDK_workspace.rc" />
+  </ItemGroup>
+</Project>
